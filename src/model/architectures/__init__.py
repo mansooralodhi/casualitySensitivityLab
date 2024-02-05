@@ -1,0 +1,2 @@
+from src.model.architectures.linear_regressor import LinearRegressionModel
+from src.model.architectures.nonlinear_regressor import NonlinearRegressionModel
